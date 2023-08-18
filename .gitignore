@@ -3,3 +3,7 @@ node_modules
 /playwright-report/
 /playwright/.cache/
 .env
+venv
+.idea
+.vscode
+resume
